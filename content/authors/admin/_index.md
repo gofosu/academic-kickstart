@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: George Ofosu
 
 # Username (this should match the folder name)
 authors:
@@ -10,21 +10,21 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: London School of Economics and Political Science
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include election integrity, political representation and politics in Africa.
 
 interests:
   - Election Integrity
-  - Political Representation",
-  - African Politics
-  - Experimental Methods/Research Design"
+  - Political Representation
+  - Politics in Africa
+  - Experimental Methods/Research Design
 
 education:
   courses:
