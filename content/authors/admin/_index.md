@@ -21,21 +21,19 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+  - Election Integrity
+  - Political Representation",
+  - African Politics
+  - Experimental Methods/Research Design"
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Political Science
+    institution: University of California, Los Angeles
+    year: 2017
+  - course: BA in Philosophy and Religion
+    institution: University of Ghana
+    year: 2006
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +42,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:g.ofosu@lse.ac.uk".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/gofosu
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.com/citations?user=8jH0_5wAAAAJ&hl=en
+# - icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +68,10 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My research focuses on political accountability, election integrity, legislator behavior, and the quality of democracy, with a regional focus on Sub-Saharan Africa. I also work on issues of research design and transparency. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research has received funding from the National Science Foundation, the UK’s Department for International Development, the [International Growth Center](https://www.theigc.org/blog/impact-parliamentary-debates-ghanas-2016-elections/), and the [Berkeley Initiative for Transparency in the Social Sciences](https://www.bitss.org/people/george-ofosu/). It has been published in the American Political Science Review, American Journal of Political Science, British Journal of Political Science and Electoral Studies. 
+ 
+I am a [Democracy and Development fellow](https://www.cddgh.org/george-k-ofosu/) of Ghana Center for Democratic Development. I have held research fellowship positions at Washington University in St. Louis, Stanford’s Center on Democracy, Development, and the Rule of Law (2015-2016) and the Weatherhead Center for International Affairs, Harvard University (2009-2010). I have consulted for the National Democratic Institute on domestic election observation efforts and parallel vote tabulations in Malawi (2009), Nigeria (2011) and Guinea (2015). 
+
+{{% staticref "files/Ofosu_George_CV_092019.pdf" %}}Download my current CV here {{% /staticref %}}.
